@@ -136,6 +136,7 @@ Your contributions are always welcome!
 * [MongoDB](https://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](https://ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
+* [Couchbase](https://www.couchbase.com/) - another great document database. Nice N1QL query language!
 
 ## Key Map Data Model
 
